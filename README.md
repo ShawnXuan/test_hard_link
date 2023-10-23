@@ -8,3 +8,4 @@ add this line in folder2
 add this line in folder1
 
 add this line in root after clone
+add this in root
